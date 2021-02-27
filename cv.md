@@ -7,7 +7,7 @@
 * **Phone:** +375 (29) 53-53-407
 * **E-mail adress:** *<crosswayy@gmail.com>*
 * **Telegram**: *[@crosswayy](https://t.me/crosswayy)*
-* **Discord:** *Yevgeniy#6615*  
+* **Discord:** *Yevgeniy\#6615*  
 ---
 
 ## Summary
