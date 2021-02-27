@@ -19,6 +19,7 @@
 
 * JavaScript
 * HTML
+* C#
 * CSS
 * C++
 * Python
